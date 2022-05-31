@@ -1,0 +1,220 @@
+
+[
+  {
+    "id": 1,
+    "name": "Portão Principal",
+    "lat": -7.13884,
+    "lng": -34.850981,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 2,
+    "name": "CCHLA",
+    "lat": -7.140655,
+    "lng": -34.84968,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 3,
+    "name": "CCSA",
+    "lat": -7.141219,
+    "lng": -34.850395,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 4,
+    "name": "CCS",
+    "lat": -7.135149,
+    "lng": -34.841878,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 5,
+    "name": "CCS",
+    "lat": -7.135533,
+    "lng": -34.841683,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 6,
+    "name": "CCS",
+    "lat": -7.136397,
+    "lng": -34.841865,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 7,
+    "name": "CCS",
+    "lat": -7.136306,
+    "lng": -34.842551,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 8,
+    "name": "CCS",
+    "lat": -7.136378,
+    "lng": -34.842513,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 9,
+    "name": "CCM",
+    "lat": -7.13657972298704,
+    "lng": -3.48406236996511,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 10,
+    "name": "CCEN",
+    "lat": -7.140337,
+    "lng": -34.845266,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 11,
+    "name": "CCEN",
+    "lat": -7.139714,
+    "lng": -34.845487,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 12,
+    "name": "CCEN",
+    "lat": -7.139557,
+    "lng": -34.845484,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 13,
+    "name": "CCEN",
+    "lat": -7.139082,
+    "lng": -34.845537,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 14,
+    "name": "CCEN",
+    "lat": -7.138464,
+    "lng": -34.84558,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 15,
+    "name": "CCEN",
+    "lat": -7.138163,
+    "lng": -34.845674,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 16,
+    "name": "CCEN",
+    "lat": -7.13734,
+    "lng": -34.845682,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 17,
+    "name": "CCEN",
+    "lat": -7.137129,
+    "lng": -34.845712,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 18,
+    "name": "C.VIVENCIAS",
+    "lat": -7.137587,
+    "lng": -34.847446,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 19,
+    "name": "C.VIVENCIAS",
+    "lat": -7.138018,
+    "lng": -34.847854,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 20,
+    "name": "C.VIVENCIAS",
+    "lat": -7.138053,
+    "lng": -34.84799,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 21,
+    "name": "C.VIVENCIAS",
+    "lat": -7.138092,
+    "lng": -34.848042,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 22,
+    "name": "C.VIVENCIAS",
+    "lat": -7.136642,
+    "lng": -34.848224,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 23,
+    "name": "CCTA - Bloco E",
+    "lat": -7.138512,
+    "lng": -34.8500406,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 24,
+    "name": "CCTA - Parada de Ônibus",
+    "lat": -7.1385746,
+    "lng": -34.849706,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 25,
+    "name": "CCTA",
+    "lat": -7.1373986,
+    "lng": -34.8504044,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 26,
+    "name": "CCTA",
+    "lat": -7.1372226,
+    "lng": -34.8499538,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 27,
+    "name": "CCTA",
+    "lat": -7.1373666,
+    "lng": -34.8499005,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 28,
+    "name": "CCTA",
+    "lat": -7.1376524,
+    "lng": -34.8499424,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 29,
+    "name": "CCTA",
+    "lat": -7.1376191,
+    "lng": -34.8498214,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 30,
+    "name": "CCTA",
+    "lat": -7.1380273,
+    "lng": -34.8498683,
+    "accessible": "TRUE"
+  },
+  {
+    "id": 31,
+    "name": "CCTA",
+    "lat": -7.1381241,
+    "lng": -34.8496363,
+    "accessible": "TRUE"
+  }
+]
